@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathmesh
 - 👀 I’m interested in ...Learning New thing's and love to face challenges
-- 🌱 I’m currently learning ... Python,HTML,CSS,Git and Java too
+- 🌱  Python,HTML,CSS,Javascript, React js,Git,Github,SQL and Java too
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me on (prathmesh@techios.io)
 
